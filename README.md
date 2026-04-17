@@ -76,7 +76,7 @@ Dashboard design
 
 В репозитории приложен Excel-файл с готовым дашбордом:
 
-`rfm_analysis_dashboard.xlsx`
+`rfm-анализ_дашборд.xlsx`
 
 ## Что показывает этот проект
 
